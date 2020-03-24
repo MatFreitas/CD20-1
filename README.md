@@ -29,4 +29,7 @@ Todos os roteiros podem ser acessados pelo site do Github.
     - [Exercícios](./aula07/Aula07_Exercicio_Texto_Camoes_Machado_MLcomNB.ipynb)
     - [Dom Casmurro](./aula07/textos/domcasmurro_texto.txt)
     - [Os Lusíadas](./aula07/textos/lusiadas_texto.txt)
-    - [Base de dados: titanic.xlsx](aula07/titanic.xlsx)
+    - [Base de dados: titanic.xlsx](./aula07/titanic.xlsx)
+- [Aula 08 - Variáveis Aleatórias Discretas](./aula08)
+    - [Atividade de sala](./aula08/Aula08_Atividade_VariaveisAleatoriasDiscretas.ipynb)
+    - [Exercícios](./aula08/Aula08_Exercicio_VariaveisAleatoriasDiscretas.ipynb)
